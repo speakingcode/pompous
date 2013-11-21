@@ -1,0 +1,2 @@
+#ignore .gem files from builds
+*.gem
